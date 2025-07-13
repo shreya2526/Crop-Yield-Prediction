@@ -23,13 +23,14 @@ Designed and developed a full-stack web application to predict agricultural crop
 - Impact: Aimed at supporting farmers and agricultural planners in making data-driven decisions to optimize crop production and resource allocation.
 
 <h2>Skills</h2>
-· Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) 
-· React.js 
-· CSS3 
-· Flask 
-· Joblib 
-· RESTful API 
-· Front-End Development 
-· Back-End Web Development 
-· CORS 
-· npm
+
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) 
+- React.js 
+- CSS3 
+- Flask 
+- Joblib 
+- RESTful API 
+- Front-End Development 
+- Back-End Web Development 
+- CORS 
+- npm
