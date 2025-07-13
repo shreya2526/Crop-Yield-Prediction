@@ -1,5 +1,6 @@
 # Crop-Yield-Prediction
 
+![home page](image/home.jpeg)
 
 <h2>Description</h2>
 Designed and developed a full-stack web application to predict agricultural crop yields based on user-input parameters such as crop type, season, geographical state, year, area, rainfall, fertilizer usage, and pesticide application.
@@ -34,3 +35,37 @@ Designed and developed a full-stack web application to predict agricultural crop
 - Back-End Web Development 
 - CORS 
 - npm
+
+<h2>Project Images</h2>
+
+<h4>About Us</h4>
+
+![About-us page](image/about-us.jpeg)
+
+<h4>Mission</h4>
+
+![Mission](image/mission.jpeg)
+
+<h4>Vision</h4>
+
+![Vision](image/vision.jpeg)
+
+<h4>Services</h4>
+
+![Services](image/services.jpeg)
+
+<h4>Prediction Page</h4>
+
+![Prediction Page](image/prediction-field.jpeg)
+
+<h4>Rice Prediction : West Bengal</h4>
+
+![Rice Prediction](image/rice-prediction.jpeg)
+
+<h4>Wheat Prediction: Punjab</h4>
+
+![Wheat Prediction](image/wheat-prediction.jpeg)
+
+<h4>Barley Prediction: Himachal Pradesh</h4>
+
+![Barley Prediction](image/barley-prediction.jpeg)
