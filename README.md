@@ -13,6 +13,7 @@ Designed and developed a full-stack web application to predict agricultural crop
 - Tools & Technologies: Python, Flask, Pandas, Scikit-learn, React, HTML/CSS, JavaScript, Joblib, Git.
 
 <h2>Impact</h2>
+
 - Aimed at supporting farmers and agricultural planners in making data-driven decisions to optimize crop production and resource allocation.
 - Description: Designed and developed a full-stack web application to predict agricultural crop yields based on user-input parameters such as crop type, season, geographical state, year, area, rainfall, fertilizer usage, and pesticide application. 
 - Key Features: Machine Learning Integration: Trained and deployed regression models using historical crop data to estimate yields (kg/ha) with crop-specific thresholds. 
